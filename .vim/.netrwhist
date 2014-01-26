@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/lgualte/Projects/studios/rails'
+let g:netrw_dirhist_2='/Users/lgualte/.vim'
+let g:netrw_dirhist_3='/Users/lgualte/Projects/studios/rails'
+let g:netrw_dirhist_4='/Users/lgualte/Projects/studios/rails/app'
+let g:netrw_dirhist_5='/Users/lgualte/Projects/studios/rails/app/controllers'
+let g:netrw_dirhist_6='/Users/lgualte/Projects/studios/go-saas-rails'
+let g:netrw_dirhist_7='/Users/lgualte/Projects/studios/go-saas-rails/bin'
+let g:netrw_dirhist_8='/Users/lgualte/Projects/studios/go-saas-rails'
